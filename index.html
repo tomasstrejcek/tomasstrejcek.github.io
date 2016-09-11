@@ -1,0 +1,164 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="masthead">
+    <h1>
+      Backend / NodeJS / PHP Developer <br /> Platform & Infrastructure Architect
+      <br />Tomáš Strejček
+    </h1>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      {% for profile in site.cs_profile %}
+        <div class="card profile">
+          <div class="card-block">
+            <h4 class="card-title">
+              {{ profile.title }}
+              <nav class="social-media">
+                <a class="" href="//twitter.com/TomasStrejcek"><i class="fa fa-twitter fa-2x"></i>
+                  <span class="">Twitter</span></a>
+                <a class="" href="//www.facebook.com/Strejcek.Tomas"><i class="fa fa-facebook fa-2x"></i>
+                  <span class="">Facebook</span></a>
+                <a class="" href="//cz.linkedin.com/in/tomasstrejcek"><i class="fa fa-linkedin fa-2x"></i>
+                  <span class="">LinkedIn</span></a>
+                <a class="" href="//instagram.com/tomasstrejcek"><i class="fa fa-instagram fa-2x"></i>
+                  <span class="">Instagram</span></a>
+                <a class="" href="//github.com/tomasstrejcek"><i class="fa fa-github fa-2x"></i>
+                  <span class="">Github</span></a>
+              </nav>
+            </h4>
+            <img src="{{ profile.image }}" class="profile-image" />
+            <div class="card-text">
+              {{ profile.content }}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h2>References & Own Apps</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="special-columns">
+      {% for app in site.cs_references %}
+      <div class="col-sm-6">
+        {% include card.html object=app %}
+      </div>
+      {% endfor %}
+    </div>
+    <hr />
+    <div class="special-columns">
+      {% for app in site.cs_apps %}
+      <div class="col-sm-6">
+        {% include card.html object=app %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h2>Hackathons</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="special-columns">
+      {% for app in site.cs_hackathons reversed %}
+      <div class="col-sm-6">
+        {% include card.html object=app %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h2>Talks</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="special-columns">
+      {% for app in site.cs_talks reversed %}
+      <div class="col-sm-6">
+        {% include quote.html object=app %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      {% for skill in site.cs_skills_intro %}
+      <div class="card">
+        <div class="card-block">
+          <h4 class="card-title">
+            {{ skill.title }}
+          </h4>
+          <div class="card-text">
+            {{ skill.content }}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h2>Skills</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="special-columns">
+      {% for app in site.cs_skills %}
+      <div class="col-sm-6">
+        {% include card.html object=app %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h2>Jobs</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="special-columns">
+      {% for app in site.cs_jobs reversed %}
+      <div class="col-sm-6">
+        {% include card.html object=app %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h2>Publishing</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="special-columns">
+      {% for app in site.cs_publishing %}
+      <div class="col-sm-6">
+        {% include card.html object=app %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+</div>
+<div class="footer container-fluid">
+  <div class="container">
+    <p> &copy; 2016 tomas-strejcek.cz</p>
+    <p> Made with Jekyll, Bootstrap and lot of patience. Uses Github Pages.</p>
+  </div>
+</div>

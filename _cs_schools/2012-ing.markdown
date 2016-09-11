@@ -1,0 +1,8 @@
+---
+categories: school
+school: Česká Zemědělská Univerzita v Praze
+title: Ing. - Informatika
+year: 2010-2012 
+---
+Přínosy: Informační inženýrství, Statistika, Ekonomie
+

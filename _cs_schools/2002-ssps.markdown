@@ -1,0 +1,10 @@
+---
+categories: school
+school: Smíchovská střední průmyslová škola
+title: Maturita - Výpočetní technika
+year: 2002-2006 
+---
+Přínosy: AutoCAD, Inventor, CorelDraw, Cisco CCNA, Visual Basic, VBA, Lisp, 
+Správa sítě Win 2000/2003 studentského klubu (server + 20pc nad Active Directory) 
+redaktor a šéfredaktor studentského časopisu
+

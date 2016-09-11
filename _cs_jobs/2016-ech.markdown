@@ -1,0 +1,15 @@
+---
+categories: jobs
+title: Dev team leader
+logo: images/ech-logo.png
+company: E-commerce Holding, a.s.
+companyDescription: jedna z top e-commerce firem v ČR
+year: 01/2015 - Dosud
+---
+
+
+E-commerce společnost provozující jedny z největších eshopů v ČR
+
+Zodpovědnost za vývoj eshopové platformy, "správný vývoj" - unit testy, continuous integration, cloud deployment, scalability
+
+ECH je členem investiční skupiny Rockaway, v rámci které působí tzv. Rocdevs - organizace vývojářů všech firem skupiny, která organizuje nejrůznější přednášky, školení, akce.

@@ -1,0 +1,13 @@
+---
+categories: jobs
+title: Senior developer
+logo: images/ghn-logo.png
+company: GH-Networks, s.r.o.
+companyDescription: 
+year: 2013 - 2015 
+---
+
+
+
+Jsem zodpovědný za údržbu a rozvoj stávajících projektů, spolupráce pouze jako externí dodavatel.
+

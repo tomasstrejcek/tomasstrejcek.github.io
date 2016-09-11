@@ -1,0 +1,14 @@
+---
+categories: jobs
+title: Manager/Architect/Developer
+logo: images/ghn-logo.png
+company: GH-Networks, s.r.o.
+companyDescription: 
+year: 2009 - 2013 
+---
+
+Společnost se zabývá tvorbou webových stránek, webových aplikací, desktopového i business software.
+Hlavně PHP, MySQL, MSSQL, C#.
+
+Součástí portfolia společnosti jsou i marketingové kampaně a jiné propagační projekty, hlavně se zaměřením na sociální sítě, nová média obecně a Facebook specificky
+

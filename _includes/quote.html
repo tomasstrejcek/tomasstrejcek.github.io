@@ -1,0 +1,19 @@
+
+{% assign object = include.object %}
+<div class="card">
+    {% if object.image %}
+        <img class="card-img-top" src="{{ object.image }}" alt="{{ object.title }}">
+    {% endif %}
+    <div class="card-block">
+        {% if object.title %}
+            <h4 class="card-title">
+                {{ object.title }}
+            </h4>
+        {% endif %}
+        {% if object.content %}
+            <div class="card-text">
+                <blockquote class="blockquote">{{ object.content }}</blockquote>
+            </div>
+        {% endif %}
+    </div>
+</div>

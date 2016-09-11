@@ -1,0 +1,44 @@
+.container-fluid.footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 70%;
+    text-align: center;
+    background: #cdcdcd;
+}
+
+.container-fluid.footer .container {
+    background: #cdcdcd;
+}
+
+.container-fluid.footer p {
+    margin: 0;
+}
+
+.masthead {
+    padding: 20%
+}
+.masthead h1 {
+    text-align:center;
+}
+.social-media {
+    text-align: center;
+    font-size: 80%;
+}
+.card.profile .card-text {
+    width: 50%;
+    margin: 2%;
+    float: left;
+}
+.card img.profile-image {
+    width: 42%;
+    margin: 2%;
+    float: left;
+}
+
+.card img {
+    width: 100%
+}
+
+.card {
+    border-radius: 0;
+}

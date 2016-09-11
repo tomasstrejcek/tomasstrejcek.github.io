@@ -1,0 +1,11 @@
+---
+categories: jobs
+title: Senior developer
+logo: images/brfr-logo.png
+company: brandzfriendz, s.r.o.
+companyDescription: Facebook Preferred Marketing Developer
+year: 02/2012 - 06/2013 
+---
+
+Digitální agentura se zabývá tvorbou webových stránek, webových aplikací, facebookových aplikací a marketingu.
+Hlavně Python, PHP (Nette Framework), Node.js, MariaDB ..

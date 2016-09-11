@@ -1,0 +1,16 @@
+---
+categories: jobs
+title: Lektor/IT/Učitel
+logo: 
+company: Smíchovská Střední Průmyslová Škola
+companyDescription: 
+year: 2006 - 02/2013 
+---
+
+
+
+Na částečný úvazek jsem učil (dle osnov ministerstva) a školil (dle svých osnov) programovací jazyky - PHP, Java, C, C#.
+
+Měl jsem na starost školní Wi-Fi, zabezpečení, monitoring a opravy.
+
+

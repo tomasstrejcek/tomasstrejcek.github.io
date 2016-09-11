@@ -1,0 +1,9 @@
+---
+categories: publishing
+title: Java (skripta)
+year: 2007 
+pages: 90
+---
+Skripta pro studenty středních škol.
+Algoritmizace, řešení úloh, ukázkové příklady. Konzolové a formulářové aplikace
+Napsáno s podporou grantů EU
