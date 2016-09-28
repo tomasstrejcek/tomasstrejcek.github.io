@@ -1,5 +1,4 @@
 ---
-categories: school
 school: Česká Zemědělská Univerzita v Praze
 title: Ing. - Informatika
 year: 2010-2012 

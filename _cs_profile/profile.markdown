@@ -1,5 +1,4 @@
 ---
-categories: profile
 title:  "Stručný profil"
 image: images/profile.jpg
 ---

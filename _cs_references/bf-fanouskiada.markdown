@@ -2,7 +2,7 @@
 title: Fanouškiáda.cz
 company: BrandzFriendz/ČS a.s. 
 year: 2014
-description: webová aplikace
+type: webová aplikace
 image: images/fanouskiada.jpg
 ---
 

@@ -1,5 +1,4 @@
 ---
-categories: school
 school: České Vysoké Učení Technické v Praze
 title: Elektrotechnika a Informatika
 year: 2006-2007 

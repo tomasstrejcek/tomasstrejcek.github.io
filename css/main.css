@@ -42,3 +42,7 @@
 .card {
     border-radius: 0;
 }
+
+.card h4 .tag {
+    font-size: 50%;
+}

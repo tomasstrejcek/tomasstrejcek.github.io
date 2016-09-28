@@ -8,6 +8,18 @@
         {% if object.title %}
             <h4 class="card-title">
                 {{ object.title }}
+                {% if object.company %}
+                    <span class="tag tag-primary">{{ object.company }}</span>
+                {% endif %}
+                {% if object.year %}
+                    <span class="tag tag-primary">{{ object.year }}</span>
+                {% endif %}
+                {% if object.type %}
+                    <span class="tag tag-primary">{{ object.type }}</span>
+                {% endif %}
+                {% if object.pages %}
+                    <span class="tag tag-info">{{ object.pages }} stran</span>
+                {% endif %}
             </h4>
         {% endif %}
         {% if object.content %}
