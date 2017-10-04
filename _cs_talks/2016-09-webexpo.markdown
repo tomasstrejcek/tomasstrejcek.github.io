@@ -1,5 +1,5 @@
 ---
-title: WebExpo 2016
+title: WebExpo 2016 - Why would anybody want to make an e-shop
 image: images/webexpo-post.jpg
 ---
 

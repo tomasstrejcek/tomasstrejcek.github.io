@@ -4,6 +4,11 @@
     {% if object.image %}
         <img class="card-img-top" src="{{ object.image }}" alt="{{ object.title }}">
     {% endif %}
+    {% if object.logo %}
+    <div class="img-small">
+        <img class="card-img-top" src="{{ object.logo }}" alt="{{ object.company }} - {{ object.title }}">
+    </div>
+    {% endif %}
     <div class="card-block">
         {% if object.title %}
             <h4 class="card-title">

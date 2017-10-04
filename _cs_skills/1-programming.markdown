@@ -1,15 +1,10 @@
 ---
 title: Programování
 ---
-- PHP & Nette Framework 2
-- Nette Database & Doctrine
-- Node.js + Express + Restify
+- Node.js (microservices, databases, mvc, performance, scaling)
+- PHP & Nette Framework 2 & Nette Database & Doctrine
 - Bash
-- Unit testy, Integrační testy, CI (PHPCI, TravisCI)
+- Unit testy (PHPUnit, Mocha+Sinon+Chai), Integrační testy, CI (PHPCI, TravisCI, Buildkite, Jenkins)
 - Behat/Mink/Selenium
-- Python
-- JavaSE(JavaEE)/Android *okrajově*
-- C# / XNA / Silverlight (+WP7) *okrajově*
-- Perl *okrajově*
-- LUA/Lisp/Scheme *okrajově*
+- *okrajově*: Python, JavaSE(JavaEE)/Android, C#, Perl, LUA/Lisp/Scheme
 

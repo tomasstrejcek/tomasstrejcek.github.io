@@ -2,9 +2,9 @@
 categories: jobs
 title: Dev team leader
 logo: images/ech-logo.png
-company: E-commerce Holding, a.s.
+company: E-commerce Holding, a.s. / Mall Group a.s.
 companyDescription: jedna z top e-commerce firem v ČR
-year: 01/2015 - Dosud
+year: 01/2015 - 12/2017
 ---
 
 

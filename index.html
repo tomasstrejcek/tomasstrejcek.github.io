@@ -4,7 +4,7 @@ layout: default
 <div class="container">
   <div class="masthead">
     <h1>
-      Backend / NodeJS / PHP Developer <br /> Platform & Infrastructure Architect
+      Backend / NodeJS / PHP Developer <br /> Platform & Infrastructure Architect <br /> <small>AWS Enthusiast</small>
       <br />Tomáš Strejček
     </h1>
   </div>
@@ -46,6 +46,13 @@ layout: default
   </div>
   <div class="row">
     <div class="special-columns">
+      {% for app in site.cs_apps reversed %}
+      <div class="col-sm-6">
+        {% include card.html object=app %}
+      </div>
+      {% endfor %}
+    </div>
+    <div class="special-columns">
       {% for app in site.cs_references %}
       <div class="col-sm-6">
         {% include card.html object=app %}
@@ -53,13 +60,6 @@ layout: default
       {% endfor %}
     </div>
     <hr />
-    <div class="special-columns">
-      {% for app in site.cs_apps %}
-      <div class="col-sm-6">
-        {% include card.html object=app %}
-      </div>
-      {% endfor %}
-    </div>
   </div>
 
   <div class="row">

@@ -51,3 +51,12 @@
     min-height: 165px;
     margin: 5px;
 }
+div.img-small {
+    text-align: center;
+}
+div.img-small img {
+    max-height: 80px;
+    max-width: 100%;
+    width: auto;
+    padding: 15px;
+}

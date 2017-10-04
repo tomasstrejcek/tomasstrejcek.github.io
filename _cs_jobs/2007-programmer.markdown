@@ -11,7 +11,7 @@ Společnosti: Expansia, s.r.o.; Altercom, s.r.o.; Knowlimits, s.r.o. a další..
 
 Vývoj webových stránek, organizace týmu, komunikace s klientem, plánování a project management.
 
-PHP/MySQL/Visual Basic/MS Access/MSSQL
+PHP/MySQL/Visual Basic/MS Access/MSSQL/JavaScript/Html/Css
 
 Tvorba webových stránek pro běžné lidi i menší firmy a další zájmové projekty.
 PHP/MySQL/HTML/CSS
